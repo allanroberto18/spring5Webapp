@@ -1,4 +1,4 @@
-###### Simple webapp with Spring 5
+## Simple webapp with Spring 5
 
 Very simple application with two basic models Author and Book (both have ManyToMany relationship)
 
@@ -10,3 +10,9 @@ Very simple application with two basic models Author and Book (both have ManyToM
 **To start the project**
 
 `./mvnw spring-boot:run` 
+
+**Available Routes**
+
+- /books
+- /authors
+- /publishers
